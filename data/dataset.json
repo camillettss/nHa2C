@@ -1,0 +1,13 @@
+{
+    "intentName":{
+        "on_activate":[
+            "func_name",
+            "param1",
+            "param2"
+        ],
+        "ins":[
+            "example1",
+            "example2"
+        ]
+    }
+}
